@@ -1,0 +1,24 @@
+{
+  "name": "tulips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flowers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveCharlIbanez/rita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveCharlIbanez/rita/issues"
+  },
+  "homepage": "https://github.com/DaveCharlIbanez/rita",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
